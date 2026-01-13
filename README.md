@@ -80,6 +80,7 @@ Copiar código
 git clone https://github.com/webermuros1-oss/Clone-cards-.git
 
 2️⃣ Entra en la carpeta
+
 bash
 
 Copiar código
